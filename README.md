@@ -6,8 +6,8 @@
 
 <p >- 📫 How to reach me <strong>jancewiczjerzy@gmail.com</strong></p>
 
-
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center"></h2>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
 </p>
-
+<h2 align="center"></h2>
 <h2 align="center">Github statistics:</h2>
 <p align="center">
 <p align="center">
