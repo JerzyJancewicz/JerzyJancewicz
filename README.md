@@ -9,7 +9,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<br/>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -35,10 +34,6 @@
 <p align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerzyjancewicz&show_icons=true&locale=en&layout=compact" alt="jerzyjancewicz" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerzyjancewicz&show_icons=true&locale=en" alt="jerzyjancewicz" />
 </p>
 
 <p align="center">
