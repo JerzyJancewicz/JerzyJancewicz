@@ -30,7 +30,7 @@
   </a>
 </p>
 <h2 align="center"></h2>
-<h2 align="center">Github statistics:</h2>
+<h3 align="center">Github statistics:</h3>
 <p align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerzyjancewicz&show_icons=true&locale=en&layout=compact" alt="jerzyjancewicz" />
