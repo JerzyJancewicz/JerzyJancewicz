@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jerzy Jancewicz</h1>
 <h3 align="center">I'm a student of Computer Science at Polish-Japanese Academy of Information Technology.</h3>
 
-<p align="center">- 🌱 I’m currently learning <strong>Software Engineering, Web development, and Cloud</strong></p>
+<h2 > About Me </h2> 
+<p >- 🌱 I’m currently learning <strong>Software Engineering, Web development, and Cloud</strong></p>
 
-<p align="center">- 📫 How to reach me <strong>jancewiczjerzy@gmail.com</strong></p>
+<p >- 📫 How to reach me <strong>jancewiczjerzy@gmail.com</strong></p>
 
-<h3 align="center">Connect with me:</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 
